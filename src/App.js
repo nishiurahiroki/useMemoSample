@@ -26,7 +26,7 @@ export default function App() {
       <div>
         <button onClick={decrement}>-</button>
       </div>
-      <div>現在日時 : {now}</div>
+      <div>現在時間 : {now}</div>
       <div>
         <button onClick={() => setNow(new Date().toLocaleTimeString())}>
           現在時間更新
