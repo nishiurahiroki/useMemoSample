@@ -1,2 +1,0 @@
-# useMemoSample
-Created with CodeSandbox
